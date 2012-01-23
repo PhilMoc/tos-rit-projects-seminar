@@ -5,11 +5,11 @@ Final Project Rubric
 
  - Lasting Appeal. Does it remain fun after multiple play throughs? 	Will players keep coming back? (Also determined by classmates 	written review.) -> 5 points
 
+ - Game allows for multiple players, online highscore leaderboards, 	level editing/sharing or some other social online component -> 5 	points
+
  - Easy to learn? -> 10 points
 
  - Is it a complete, playable game? Are there any bugs? -> 10 points
-
- - Supports 2 - 4 players? -> 5 points
 
  - How polished is it (card turning animation, 3D visual representation 	of card values, etc.) -> 15 points.
 
@@ -23,6 +23,6 @@ Final Project Rubric
 
  - Game includes instructions and/or a tutorial -> 5 points
 
- - Game includes appropriate soundeffects/music and the ability to 	alter the game volume as well as to mute the game -> 5 points
+ - Game includes appropriate soundeffects/music and the ability to 	alter the game volume and mute the game -> 5 points
 
 Total possible points:  100
